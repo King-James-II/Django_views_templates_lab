@@ -1,7 +1,7 @@
 # Django Views and Templates Lab
 
 ## Overview
-This project is part of a lab where you will learn to create views and templates, use views to update objects and redirect users to other pages, and use CSS to stylize your templates.
+This project is part of a lab where I learned to create views and templates, use views to update objects and redirect users to other pages, and use CSS to stylize templates.
 
 ## Files and Functionality
 ### Views
